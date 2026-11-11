@@ -90,6 +90,12 @@ Representative values from the unfiltered overview screenshots:
 3. Use the sidebar navigation and the Year, Country, Project Status, and Category slicers.
 4. Select relevant visuals for drillthrough or hover to view the report tooltips.
 
+## Download Power BI Project
+
+[Download Kickstarter Project Analytics Dashboard (.pbix)](https://github.com/Atiya2005/Kickstarter-Project-Analytics-Power-BI/releases/download/v1.0.0/Final_Project_v3.pbix)
+
+Open the downloaded file using Microsoft Power BI Desktop.
+
 > **Large file note:** The `.pbix` exceeds GitHub's 100 MiB regular Git limit. It can be shared as a downloadable **GitHub Release asset** (simplest browser-based option) or tracked with **Git LFS**. The screenshots and README are viewable directly on GitHub.
 
 ## Author
